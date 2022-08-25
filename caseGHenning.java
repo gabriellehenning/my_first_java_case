@@ -10,7 +10,7 @@ The case proposed was to develop a program that would read and store the input f
     -- From (65 or +) - Elderly. 
 And then it prints the final list considering all the information.*/
 
-package Main;
+package caseghenning;
 
 import java.util.ArrayList;
 import java.util.Collections;
@@ -22,7 +22,7 @@ import java.util.Scanner;
 
 
 
-public class Main {
+public class caseGHenning {
     
 	public static void main(String[] args) {
 
