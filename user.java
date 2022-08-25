@@ -1,5 +1,3 @@
-package caseghenning;
-
 
 public class user {
 	private String name;
