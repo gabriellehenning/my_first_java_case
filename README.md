@@ -1,7 +1,7 @@
 
 # Organized List
 
->> My First Java Case
+> My First Java Case
 
 This is a case ellaborated with many resources, to participate in a internship process. 
 
