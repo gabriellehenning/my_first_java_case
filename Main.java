@@ -10,15 +10,14 @@ The case proposed was to develop a program that would read and store the input f
     -- From (65 or +) - Elderly. 
 And then it prints the final list considering all the information.*/
 
-package caseghenning;
-
+package Main;
 
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Comparator;
 import java.util.List;
 import java.util.Scanner;
-import caseghenning.user;
+
 
 
 
@@ -64,9 +63,7 @@ public class Main {
                 
 
                     if (p1.getAge() != p2.getAge()) {
-                        
-                               []
-                                
+                             
 				return p1.getAge() - p2.getAge();
                                 return p1.getName().compareTo(p2.getName());
 			}
