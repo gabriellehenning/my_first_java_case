@@ -7,6 +7,8 @@ This is a case ellaborated with many resources, to participate in a internship p
 
 It was my first case, my first code, my first project, including all the programming languages. 
 
+OBS.: the case is not fully running (it was, but then it is not anymore), howver, I decided to share to show my logic and idea, so be aware. 
+
 I did enjoy doing all the steps of it and I don't know why I didn't practice before. 
 I learnt a lot while programming and doing a lot or research.
 
